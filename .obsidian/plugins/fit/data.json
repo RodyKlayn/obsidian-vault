@@ -1,0 +1,14 @@
+{
+  "pat": "",
+  "owner": "",
+  "repoOwner": "",
+  "avatarUrl": "",
+  "repo": "",
+  "branch": "",
+  "deviceName": "",
+  "checkEveryXMinutes": 5,
+  "autoSync": "off",
+  "notifyChanges": true,
+  "notifyConflicts": true,
+  "enableDebugLogging": true
+}
