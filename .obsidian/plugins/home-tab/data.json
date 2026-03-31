@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Base de Dados.base",
+      "timestamp": 1774984485621
+    },
+    {
+      "filepath": "Screenplays/Templates/Personagem.md",
+      "timestamp": 1774984478733
+    },
+    {
+      "filepath": "Screenplays/Um Novo Mundo/Um novo mundo - Screenplay.md",
+      "timestamp": 1774983629589
+    },
+    {
+      "filepath": "Screenplays/Lethal Life/Lethal Life - Screenplay.md",
+      "timestamp": 1774983602024
+    },
+    {
+      "filepath": "Screenplays/Lethal Life/Timeline - Lethal Life.md",
+      "timestamp": 1774983358761
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

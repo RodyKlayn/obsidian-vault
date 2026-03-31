@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "6aa0477b7de11966",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed71d59672d1503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef4ae0b122da59c",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bf7aeff46bff3f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "abb6f440f23b76a2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de arquivos"
+        }
+      },
+      {
+        "id": "117f8e573349564e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "ae3a3d66e3272b73",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "11ac1a5363fc7f53",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas as propriedades"
+        }
+      },
+      {
+        "id": "9947e006b73cb70e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      },
+      {
+        "id": "2b89e774be0a6fe0",
+        "type": "leaf",
+        "state": {
+          "type": "role-switch-view",
+          "state": {},
+          "icon": "clock",
+          "title": "Role-switch"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2caa11d0544b7473",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bba8c5482dc34786",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Links inversos"
+        }
+      },
+      {
+        "id": "0482c568e33e9c5d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2026-03-30 - Ideia redesign gameboy.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "48d29ffffee5214e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Redesign Gameboy - Console Novo.canvas",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      },
+      {
+        "id": "538722e2c413af88",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {},
+          "icon": "lucide-file-signature",
+          "title": "Notas de rodapé"
+        }
+      },
+      {
+        "id": "0d09274a755cb6b7",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {},
+          "icon": "file-digit",
+          "title": "Strange New Worlds"
+        }
+      },
+      {
+        "id": "3a7defc525e5bd97",
+        "type": "leaf",
+        "state": {
+          "type": "fountain-sidebar",
+          "state": {},
+          "icon": "list-tree",
+          "title": "Table of contents of fountain script"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": true,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "random-note:Abrir nota aleatória": false,
+      "publish:Publicar mudanças": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "spotify-link:Connect Spotify": false,
+      "role-switch:Role-switch panel": false,
+      "radial-timeline:Radial timeline": false,
+      "fountain:New fountain document": false
+    }
+  },
+  "active": "fef4ae0b122da59c",
+  "lastOpenFiles": [
+    "Base de Dados.base",
+    "Screenplays/Templates/Personagem.md",
+    "Screenplays/Um Novo Mundo/Um novo mundo - Screenplay.md",
+    "Screenplays/Lethal Life/Lethal Life - Screenplay.md",
+    "Screenplays/Lethal Life/Timeline - Lethal Life.md",
+    "Screenplays/Lethal Life/1 Opening Image.md",
+    "Screenplays/Lethal Life/15 Final Image.md",
+    "Screenplays/Lethal Life/14 Finale.md",
+    "Screenplays/Lethal Life/13 Break into 3.md",
+    "Screenplays/Lethal Life/12 Dark Night of the Soul.md",
+    "Screenplays/Lethal Life/11 All Is Lost.md",
+    "Screenplays/Lethal Life/10 Bad Guys Close In.md",
+    "Screenplays/Lethal Life/9 Midpoint.md",
+    "Screenplays/Lethal Life/8 Fun and Games.md",
+    "Screenplays/Lethal Life/7 B Story.md",
+    "Screenplays/Lethal Life/6 Break into 2.md",
+    "Screenplays/Lethal Life/5 Debate.md",
+    "Screenplays/Lethal Life/4 Catalyst.md",
+    "Screenplays/Lethal Life/3 Setup.md",
+    "Screenplays/Lethal Life/2 Theme Stated.md",
+    "Screenplays/Lethal Life/1 Scene.md",
+    "Screenplays/Templates/Lookbook.md",
+    "Screenplays/Templates/Decupagem.md",
+    "Untitled.fountain",
+    "Screenplays/Templates/Cena.md",
+    "Screenplays/Um Novo Mundo",
+    "Screenplays/Templates/Roteiro Cinema.md",
+    "Screenplays/Templates",
+    "Screenplays/Lethal Life",
+    "Moda/Arquivos",
+    "Vídeo Game/Projeto/Redesign Gameboy - Console Novo.canvas",
+    "Vídeo Game/Projeto",
+    "Moda/Projetos",
+    "202603311207.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Vídeo Game/Miyoo",
+    "Vídeo Game/NIntendo",
+    "Sem título 2.canvas",
+    "IMAGENS/IMG_0161.jpeg",
+    "IMAGENS/IMG_0175.webp",
+    "IMAGENS/IMG_0174.jpeg",
+    "IMAGENS/IMG_0172.png",
+    "IMAGENS/IMG_0171.png",
+    "IMAGENS/IMG_0170.png",
+    "IMAGENS/IMG_0167.jpeg",
+    "IMAGENS/IMG_0166.png",
+    "IMAGENS/IMG_0165.jpeg",
+    "IMAGENS/IMG_0164.jpeg"
+  ]
+}

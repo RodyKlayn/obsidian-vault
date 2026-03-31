@@ -1,0 +1,64 @@
+{
+  "roles": [
+    {
+      "id": "r41x2b2",
+      "name": "Tailor",
+      "colorHex": "#d357fe",
+      "description": "Tailoring Clothes",
+      "icon": "T"
+    },
+    {
+      "id": "aelno3j",
+      "name": "ScreenWriter",
+      "colorHex": "#3a87fe",
+      "description": "Write Screenplays",
+      "icon": "S"
+    }
+  ],
+  "events": [
+    {
+      "id": "kgjo4y5",
+      "type": "start",
+      "roleId": "aelno3j",
+      "at": "2026-03-31T14:40:00.828Z",
+      "meta": {
+        "sessionId": "xmazik7"
+      }
+    },
+    {
+      "id": "gvu4xkd",
+      "type": "end",
+      "roleId": "aelno3j",
+      "at": "2026-03-31T19:03:13.335Z",
+      "meta": {
+        "sessionId": "xmazik7",
+        "duration": 15792.507
+      }
+    }
+  ],
+  "state": {
+    "activeRoleId": null,
+    "activeSessionId": null,
+    "activeStartAt": null,
+    "inTransition": false,
+    "lockUntil": null
+  },
+  "settings": {
+    "transitionSeconds": 5,
+    "minSessionSeconds": 300,
+    "showStatusBar": true,
+    "showWorkspaceBorder": true,
+    "borderOpacity": 0.3,
+    "enableApi": false,
+    "apiPort": 3030,
+    "enableAuthentication": true,
+    "enableSync": false,
+    "syncInterval": 5,
+    "deviceId": "zymsu4th5iis4wihtdlja",
+    "deviceName": "Obsidian Device",
+    "showPeriodicReminder": false,
+    "reminderIntervalMinutes": 1
+  },
+  "apiKeys": [],
+  "syncEndpoints": []
+}

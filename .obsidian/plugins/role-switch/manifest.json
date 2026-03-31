@@ -1,0 +1,11 @@
+{
+	"id": "role-switch",
+	"name": "Role Switch",
+	"version": "0.1.1",
+	"minAppVersion": "1.6.0",
+	"description": "Switch between different work roles (developer, writer, researcher, etc.) with intentional transitions and session tracking.",
+	"author": "Zafrem",
+	"authorUrl": "https://github.com/zafrem",
+	"fundingUrl": "https://github.com/sponsors/zafrem",
+	"isDesktopOnly": false
+}
