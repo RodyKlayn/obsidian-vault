@@ -8,12 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "faa7fa283710e79c",
+            "id": "50ad38231385a1ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "a02cdfac809059e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jotapé.md",
+                "file": "Screenplays/Lethal Life/Timeline - Lethal Life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jotapé"
+              "title": "Timeline - Lethal Life"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,7 +247,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faa7fa283710e79c",
+  "active": "a02cdfac809059e3",
   "lastOpenFiles": [
     "Jotapé.md",
     "Screenplays/Lethal Life/Timeline - Lethal Life.md",
