@@ -16,33 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
-          },
-          {
-            "id": "a02cdfac809059e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Screenplays/Lethal Life/Timeline - Lethal Life.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Timeline - Lethal Life"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a02cdfac809059e3",
+  "active": "1d7ae7bca7f41e2c",
   "lastOpenFiles": [
     "Jotapé.md",
     "Screenplays/Lethal Life/Timeline - Lethal Life.md",
