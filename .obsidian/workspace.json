@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f46240d2950dc82",
+            "id": "83266926852e2a1d",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336e812d3045d41c",
@@ -194,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f46240d2950dc82",
+  "active": "83266926852e2a1d",
   "lastOpenFiles": [
+    "Screenplays/Lethal Life/Cenas/Cena 7 Ataque.md",
     "Screenplays/Lethal Life/Direção Visual/Design.canvas",
     "Screenplays/Lethal Life/Direção Visual/Direção.md",
     "Base de Dados.base",
