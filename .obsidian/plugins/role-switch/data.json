@@ -3,7 +3,7 @@
     {
       "id": "r41x2b2",
       "name": "Tailor",
-      "colorHex": "#d357fe",
+      "colorHex": "#d42121",
       "description": "Tailoring Clothes",
       "icon": "T"
     },
@@ -13,6 +13,13 @@
       "colorHex": "#3a87fe",
       "description": "Write Screenplays",
       "icon": "S"
+    },
+    {
+      "id": "gfxyj4o",
+      "name": "Designer",
+      "colorHex": "#2dd27d",
+      "description": "Make Design",
+      "icon": "D"
     }
   ],
   "events": [
@@ -34,14 +41,23 @@
         "sessionId": "xmazik7",
         "duration": 15792.507
       }
+    },
+    {
+      "id": "l666qkj",
+      "type": "start",
+      "roleId": "r41x2b2",
+      "at": "2026-04-01T21:01:31.363Z",
+      "meta": {
+        "sessionId": "djkp86g"
+      }
     }
   ],
   "state": {
-    "activeRoleId": null,
-    "activeSessionId": null,
-    "activeStartAt": null,
+    "activeRoleId": "r41x2b2",
+    "activeSessionId": "djkp86g",
+    "activeStartAt": "2026-04-01T21:01:31.363Z",
     "inTransition": false,
-    "lockUntil": null
+    "lockUntil": "2026-04-01T21:06:31.363Z"
   },
   "settings": {
     "transitionSeconds": 5,
