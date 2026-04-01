@@ -211,12 +211,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +247,7 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "4ab85a18a714b062",
+  "active": "b000d88902905eb4",
   "lastOpenFiles": [
     "StorytellerSuite/Templates/Notes/References",
     "StorytellerSuite/Templates/Notes/Scenes",
