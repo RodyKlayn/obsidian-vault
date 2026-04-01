@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7b6e9514d49cfe",
+        "id": "f6a5f2b8445cca56",
         "type": "tabs",
         "children": [
           {
-            "id": "9343b115ab62396c",
+            "id": "8f46240d2950dc82",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9343b115ab62396c",
+  "active": "8f46240d2950dc82",
   "lastOpenFiles": [
     "Screenplays/Lethal Life/Direção Visual/Design.canvas",
     "Screenplays/Lethal Life/Direção Visual/Direção.md",
