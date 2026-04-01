@@ -1,3 +1,4 @@
+#template 
 # CENA {{title}}
 
 INT./EXT. LOCAL - DIA/NOITE

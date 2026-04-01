@@ -1,3 +1,4 @@
+#template 
 # {{title}}
 
 ## 🎨 Estética

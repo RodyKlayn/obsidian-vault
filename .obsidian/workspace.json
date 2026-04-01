@@ -8,16 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50ad38231385a1ee",
+            "id": "9343b115ab62396c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "home-tab-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -222,10 +223,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d7ae7bca7f41e2c",
+  "active": "9343b115ab62396c",
   "lastOpenFiles": [
-    "Jotapé.md",
-    "Screenplays/Lethal Life/Timeline - Lethal Life.md",
-    "Base de Dados.base"
+    "Screenplays/Lethal Life/Direção Visual/Design.canvas",
+    "Screenplays/Lethal Life/Direção Visual/Direção.md",
+    "Base de Dados.base",
+    "Screenplays/Templates/Lookbook.md",
+    "Screenplays/Templates/Roteiro Cinema.md",
+    "Screenplays/Templates/Personagem.md",
+    "Screenplays/Templates/Decupagem.md",
+    "Screenplays/Templates/Cena.md",
+    "fábrica.md",
+    "Sem título.md",
+    "Outro Personagem.md",
+    "Screenplays/Lethal Life/Desenvolvimento/Conceito.md",
+    "Screenplays/Lethal Life/Desenvolvimento/logline.md",
+    "Screenplays/Lethal Life/Personagens/Alex.md",
+    "Screenplays/Lethal Life/Personagens/Heitor.md",
+    "Screenplays/Lethal Life/Personagens/Bruno.md",
+    "Screenplays/Lethal Life/Personagens/Leonard.md",
+    "Screenplays/Lethal Life/Mundo/Lua A113.md",
+    "Screenplays/Lethal Life/Mundo/Fábrica Hoffmann.md",
+    "Screenplays/Lethal Life/Mundo/Criaturas.md",
+    "Screenplays/Lethal Life/Roteiro/Episódio 1.md",
+    "Screenplays/Lethal Life/Cenas/Cena 1 Nave.md",
+    "Screenplays/Lethal Life/Cenas/Cena 2 Queda.md",
+    "Screenplays/Lethal Life/Cenas/Cena 3 Pós Queda.md",
+    "Screenplays/Lethal Life/Cenas/Cena 4 Exploração.md",
+    "Screenplays/Lethal Life/Cenas/Cena 5 Fábrica.md",
+    "Screenplays/Lethal Life/Cenas/Cena 6 Horror.md",
+    "Screenplays/Lethal Life/Versões",
+    "Screenplays/Lethal Life/Direção Visual",
+    "Screenplays/Lethal Life/Cenas",
+    "Screenplays/Lethal Life/Roteiro",
+    "Screenplays/Lethal Life/Mundo",
+    "Screenplays/Lethal Life/Personagens",
+    "Screenplays/Lethal Life/Desenvolvimento"
   ]
 }

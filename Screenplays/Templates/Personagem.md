@@ -1,3 +1,4 @@
+#template 
 # {{title}}
 
 ## 📌 Dados básicos
@@ -22,4 +23,4 @@
 - 
 
 ## 🔗 Relações
-- [[Outro Personagem]]
+- Outro Personagem

@@ -12,19 +12,19 @@ Um silêncio refletindo cansaço no interior da nave.
 
   
 
-ALEX está pilotando a nave, visivelmente cansado, enquanto arruma alguns objetos pessoais no painel da nave.
+[[Alex]] está pilotando a nave, visivelmente cansado, enquanto arruma alguns objetos pessoais no painel da nave.
 
   
 
-BRUNO está dormindo profundamente em um canto no lado direito da nave. Roncando.
+[[Bruno]] está dormindo profundamente em um canto no lado direito da nave. Roncando.
 
   
 
-HEITOR está no fundo da nave guardando seus objetos em um armário vermelho, meio enferrujado. Ele pega uma foto de sua família e fica olhando com carinho.
+[[Heitor]] está no fundo da nave guardando seus objetos em um armário vermelho, meio enferrujado. Ele pega uma foto de sua família e fica olhando com carinho.
 
   
 
-LUCAS está sentado no canto direito da nave assistindo o filme O Resgate do Soldado Ryan.
+[[Lucas]] está sentado no canto direito da nave assistindo o filme O Resgate do Soldado Ryan.
 
   
 
