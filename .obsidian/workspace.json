@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ef4f4a570be5b3f",
+            "id": "70a387def1dad7e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "home-tab-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ],
