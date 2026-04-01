@@ -50,14 +50,24 @@
       "meta": {
         "sessionId": "djkp86g"
       }
+    },
+    {
+      "id": "4sucpfk",
+      "type": "end",
+      "roleId": "r41x2b2",
+      "at": "2026-04-01T21:21:37.336Z",
+      "meta": {
+        "sessionId": "djkp86g",
+        "duration": 1205.973
+      }
     }
   ],
   "state": {
-    "activeRoleId": "r41x2b2",
-    "activeSessionId": "djkp86g",
-    "activeStartAt": "2026-04-01T21:01:31.363Z",
+    "activeRoleId": null,
+    "activeSessionId": null,
+    "activeStartAt": null,
     "inTransition": false,
-    "lockUntil": "2026-04-01T21:06:31.363Z"
+    "lockUntil": null
   },
   "settings": {
     "transitionSeconds": 5,
