@@ -1,5 +1,7 @@
 ---
-tags: fountain
+tags:
+  - fountain
+  - LethalLife
 ---
 #Screenplay
 (SOM DE UMA NAVE VOANDO NO ESPAÇO PROFUNDO)

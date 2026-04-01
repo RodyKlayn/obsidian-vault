@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "tag:#LethalLife  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
     }
   ],
   "collapse-display": false,
@@ -35,10 +42,10 @@
   "nodeSizeMultiplier": 1.9867816091954,
   "lineSizeMultiplier": 1.00114942528736,
   "collapse-forces": false,
-  "centerStrength": 0.655172413793103,
-  "repelStrength": 10,
+  "centerStrength": 0.369791666666667,
+  "repelStrength": 10.3125,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6626373984364947,
+  "scale": 0.33712465228388483,
   "close": false
 }

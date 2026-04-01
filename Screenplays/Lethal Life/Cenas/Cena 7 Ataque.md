@@ -3,3 +3,4 @@
 ## Ação
 - Criatura aparece
 - [[Lucas]] paralisa
+- #LethalLife 

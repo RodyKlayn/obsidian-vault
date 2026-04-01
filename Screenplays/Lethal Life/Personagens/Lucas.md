@@ -12,3 +12,4 @@ Falhas no sistema (bugs)
 
 ## Arco
 Inocência → trauma → consciência
+#LethalLife 

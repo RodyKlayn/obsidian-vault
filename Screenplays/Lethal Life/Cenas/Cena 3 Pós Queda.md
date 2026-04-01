@@ -3,3 +3,4 @@
 ## Ação
 - [[Nave]] destruída
 - Personagens acordam
+- #LethalLife 

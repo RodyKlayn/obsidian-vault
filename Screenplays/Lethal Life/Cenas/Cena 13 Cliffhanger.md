@@ -5,3 +5,4 @@
 
 ## Gancho
 "Você lembra como virou um [[Lucas]]?"
+#LethalLife 

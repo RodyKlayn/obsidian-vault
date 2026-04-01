@@ -5,3 +5,4 @@
 
 ## Função
 Humanizar [[Lucas]]
+#LethalLife 

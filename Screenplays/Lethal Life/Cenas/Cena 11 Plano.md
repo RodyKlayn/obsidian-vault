@@ -2,3 +2,4 @@
 
 ## Ação
 - Voltar à [[Fábrica Hoffmann]]
+- #LethalLife 

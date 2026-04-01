@@ -8,3 +8,4 @@ Figura mentor
 
 ## Relação
 Ligação emocional com [[Lucas]]
+#LethalLife 

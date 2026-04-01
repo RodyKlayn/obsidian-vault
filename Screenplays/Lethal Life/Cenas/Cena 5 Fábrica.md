@@ -2,3 +2,4 @@
 
 ## Ação
 - Descoberta da [[Fábrica Hoffmann]]
+- #LethalLife 
