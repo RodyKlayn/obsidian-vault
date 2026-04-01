@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +234,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "0ef4f4a570be5b3f",
+  "active": "b000d88902905eb4",
   "lastOpenFiles": [
     "Screenplays/Lethal Life/Cenas/Cena 1 Nave.md",
     "Screenplays/Um Novo Mundo/Um novo mundo - Screenplay.md",
