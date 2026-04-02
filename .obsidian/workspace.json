@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9bd515d519bd607",
+        "id": "1a818af55c682e58",
         "type": "tabs",
         "children": [
           {
-            "id": "4ab85a18a714b062",
+            "id": "c9020ac42cf2437a",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -247,7 +247,7 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "b000d88902905eb4",
+  "active": "c9020ac42cf2437a",
   "lastOpenFiles": [
     "StorytellerSuite/Templates/Notes/References",
     "StorytellerSuite/Templates/Notes/Scenes",
