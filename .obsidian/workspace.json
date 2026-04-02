@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a818af55c682e58",
+        "id": "ad52e57ed5335492",
         "type": "tabs",
         "children": [
           {
-            "id": "c9020ac42cf2437a",
+            "id": "101413850f328415",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -247,8 +247,9 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "c9020ac42cf2437a",
+  "active": "101413850f328415",
   "lastOpenFiles": [
+    "2026-04-01.md",
     "StorytellerSuite/Templates/Notes/References",
     "StorytellerSuite/Templates/Notes/Scenes",
     "StorytellerSuite/Templates/Notes/Chapters",
@@ -259,7 +260,6 @@
     "StorytellerSuite/Templates/Notes/Groups",
     "StorytellerSuite/Templates/Notes/Items",
     "StorytellerSuite/Templates/Notes/Events",
-    "StorytellerSuite/Templates/Notes/Locations",
     "Screenplays/Lethal Life/Personagens/Lucas.md",
     "Screenplays/Lethal Life/Personagens/Alex.md",
     "Screenplays/Lethal Life/Direção Visual/Direção.md",
